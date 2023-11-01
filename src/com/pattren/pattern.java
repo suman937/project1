@@ -1,4 +1,4 @@
-package package2;
+package com.pattren;
 
 public class pattern {
 
